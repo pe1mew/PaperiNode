@@ -1,3 +1,5 @@
+![PaperiNode](images/Screenshot_2020-07-16-RobPo-PaperiNode.jpg?raw=true "PaperiNode")
+
 # PaperiNode, an Arduino-compatible flexible low power energy-harvesting LoRa-enabled electronic paper display
 https://www.electronics-lab.com/paperinode-arduino-compatible-flexible-low-power-energy-harvesting-lora-enabled-electronic-paper-display/ 
 Retrieved from hackster.io on July 28, 2020 by Remko Welling
@@ -15,6 +17,8 @@ Robert Poser has posted his project on GitHub called PaperiNode, which is a flex
   - PV cells: IXYS SLMD121H04L
   - Energy-harvesting PMIC: E-Peas AEM10941 w/ MPPT
   - Storage device: EDLC supercap 400mF
+  
+![PaperiNodePWR](images/Screenshot_2020-07-16-RobPo-PaperiNode1.png?raw=true "PaperiNodePWR")
 
 ## PaperiNode Power Consumption
 
