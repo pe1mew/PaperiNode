@@ -1,10 +1,6 @@
 #ifndef PAPERINODE_DEMOBOARD_H_
 #define PAPERINODE_DEMOBOARD_H_
 
-/******************************************************************************************
-											DEFINES
-/******************************************************************************************/
-
 #include <SPI.h>
 #include "I2C.h"
 #include "spi_functions.h"
